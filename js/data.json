@@ -1,0 +1,104 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Performance",
+            "body": "All our customers are satisfied by our service, it is from their messages that we receive"
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Liquidity",
+            "body": "We have a good relationship with all our customers because of the good communication of our team, and we deliver on all the republic"
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Timing",
+            "body": "The most important things that we are keen on are our respect for the time so that we try to be serious in our work and our timing"
+        }
+        
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/1.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/2.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/3.jpg"
+        },
+        {
+            "id":4,
+            "image": "/images/4.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/5.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/6.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/8.jpg"
+        },
+        {
+            "id":8,
+            "image": "/images/9.jpg"
+        }
+    ] ,
+    "team":[
+         {
+             "id":1,
+             "photo":"/images/mohamed.jpg",
+             "name":"Mohamed Abidi",
+             "description":"Gérant"
+         },
+         {
+            "id":2,
+            "photo":"/images/haykel.jpg",
+            "name":"Haykel Lachiheb",
+            "description":"Delivey Man" 
+         },
+         {
+            "id":3,
+            "photo":"/images/taha.jpg",
+            "name":"Taha Amaidi",
+            "description":"Commercial"
+         },
+         {
+            "id":4,
+            "photo":"/images/dali.jpg",
+            "name":"Dali Abdelmalek",
+            "description":"Chef Cuizine"
+         }
+    ],
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] 
+}
